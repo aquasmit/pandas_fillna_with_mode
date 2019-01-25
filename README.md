@@ -1,2 +1,2 @@
-# pandas_fillna_with_mode
+# Handling missing value in pandas dataframe
 Example of handling missing value in pandas dataframe using fillna( ) and mode( )
